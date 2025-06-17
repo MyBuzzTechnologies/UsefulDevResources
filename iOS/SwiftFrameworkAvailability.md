@@ -21,6 +21,7 @@ If you see errors related to specific swift frameworks missing when building you
 | libswift_stdio.dylib                 |        |        |        |        |        |        | x      |
 | libswift_StringProcessing.dylib      |        |        |        |        | x      | x      | x      |
 | libswift_time.dylib                  |        |        |        |        |        |        | x      |
+| libswift_Volatile.dylib              |        |        |        |        |        |        | x (18.4+)  |
 | libswiftos.dylib                     | x      | x      | x      | x      | x      | x      | x      |
 | libswiftsimd.dylib                   | x      | x      | x      | x      | x      | x      | x      |
 | libswiftARKit.dylib                  | x      | x      | x      | x      | x      | x      | x      |
